@@ -1,3 +1,10 @@
+# demo
+
+https://talatig.github.io/ng8test/
+
+component tf is template driven form
+component rf is reactive form
+
 # Ng8
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
