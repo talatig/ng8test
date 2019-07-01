@@ -2,7 +2,7 @@
 
 https://talatig.github.io/ng8test/
 
-component tf is template driven form
+component tf is template driven form,
 component rf is reactive form
 
 # Ng8
